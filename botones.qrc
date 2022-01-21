@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/botonhome">
+        <file>imagenes/home.png</file>
+    </qresource>
+    <qresource prefix="/botonpost">
+        <file>imagenes/newpost.png</file>
+        <file>imagenes/newpost1.png</file>
+    </qresource>
+</RCC>

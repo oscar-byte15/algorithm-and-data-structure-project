@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/amigos">
+        <file>imagenes/amigos.png</file>
+    </qresource>
+</RCC>

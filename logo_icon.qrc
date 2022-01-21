@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Logo_icon">
+        <file>imagenes/music.png</file>
+    </qresource>
+    <qresource prefix="/nuevo">
+        <file>imagenes/password.png</file>
+    </qresource>
+    <qresource prefix="/nuevo2">
+        <file>imagenes/user2.png</file>
+    </qresource>
+    <qresource prefix="/nuevo3"/>
+</RCC>

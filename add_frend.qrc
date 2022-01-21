@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/addf">
+        <file>imagenes/add_f.svg</file>
+    </qresource>
+    <qresource prefix="/Frend">
+        <file>imagenes/add_f.svg</file>
+    </qresource>
+</RCC>
